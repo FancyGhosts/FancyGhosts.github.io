@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x59acc613f08615942597fa47ab7e86b9f7460766",
+  "SCAN_LINK": "https://polygonscan.com/address/0x59acc613f08615942597fa47ab7e86b9f7460766",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "FancyGhosts",
+  "SYMBOL": "FG",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 100000000000000000,
+  "DISPLAY_COST": 0.1,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/fancyghosts",
+  "SHOW_BACKGROUND": false
+}
